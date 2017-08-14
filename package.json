@@ -1,0 +1,25 @@
+{
+  "name": "video-message-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lilian Kasem",
+  "license": "ISC",
+  "dependencies": {
+    "azure-storage": "^2.2.2",
+    "body-parser": "^1.17.2",
+    "botbuilder": "^3.8.0-beta8",
+    "express": "^4.15.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "recordrtc": "^5.4.2",
+    "restify": "^4.3.0",
+    "url": "^0.11.0",
+    "video.js": "^6.2.4",
+    "videojs-record": "^1.7.0"
+  }
+}
